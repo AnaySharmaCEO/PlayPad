@@ -1,0 +1,638 @@
+[
+  {
+    "id": "2a1cb9ee-33b1-489f-ab52-ffa6e4297e87",
+    "title": "Meeting With Team",
+    "startTime": "10:00",
+    "endTime": "10:30",
+    "category": "work",
+    "date": "2025-09-22",
+    "color": "bg-blue-500",
+    "completed": false,
+    "aiGenerated": true
+  },
+  {
+    "id": "f1239b5a-30de-4de7-b0c0-170b3774babd",
+    "title": "Lunch With Client",
+    "startTime": "12:00",
+    "endTime": "13:00",
+    "category": "work",
+    "date": "2025-09-22",
+    "color": "bg-blue-500",
+    "completed": false,
+    "aiGenerated": true
+  },
+  {
+    "id": "71dd361d-0616-48a9-9f6c-d70c60be940c",
+    "title": "Gym Session",
+    "startTime": "18:00",
+    "endTime": "19:00",
+    "category": "health",
+    "date": "2025-09-22",
+    "color": "bg-red-500",
+    "completed": false,
+    "aiGenerated": true
+  },
+  {
+    "id": "b86a3d51-9f38-4c17-8eee-7e8607b648e7",
+    "title": "Repeating Meeting With Team",
+    "startTime": "10:00",
+    "endTime": "10:30",
+    "category": "work",
+    "date": "2025-09-22",
+    "color": "bg-blue-500",
+    "completed": false,
+    "aiGenerated": true,
+    "repeating": true,
+    "repeatDays": [
+      "monday",
+      "tuesday",
+      "wednesday",
+      "thursday",
+      "friday"
+    ]
+  },
+  {
+    "id": "ea3c0069-36a1-4b8b-af82-a616af07574d",
+    "title": "Repeating Meeting With Team",
+    "startTime": "10:00",
+    "endTime": "10:30",
+    "category": "work",
+    "date": "2025-09-23",
+    "color": "bg-blue-500",
+    "completed": false,
+    "aiGenerated": true,
+    "repeating": true,
+    "repeatDays": [
+      "monday",
+      "tuesday",
+      "wednesday",
+      "thursday",
+      "friday"
+    ]
+  },
+  {
+    "id": "ff76843d-bd52-46e2-a9a7-12b01c668517",
+    "title": "Repeating Meeting With Team",
+    "startTime": "10:00",
+    "endTime": "10:30",
+    "category": "work",
+    "date": "2025-09-24",
+    "color": "bg-blue-500",
+    "completed": false,
+    "aiGenerated": true,
+    "repeating": true,
+    "repeatDays": [
+      "monday",
+      "tuesday",
+      "wednesday",
+      "thursday",
+      "friday"
+    ]
+  },
+  {
+    "id": "7adabf17-7f39-4b8d-b437-fc49ed6a553b",
+    "title": "Repeating Meeting With Team",
+    "startTime": "10:00",
+    "endTime": "10:30",
+    "category": "work",
+    "date": "2025-09-25",
+    "color": "bg-blue-500",
+    "completed": false,
+    "aiGenerated": true,
+    "repeating": true,
+    "repeatDays": [
+      "monday",
+      "tuesday",
+      "wednesday",
+      "thursday",
+      "friday"
+    ]
+  },
+  {
+    "id": "5a77acf3-f16f-498c-9f37-10e138689eec",
+    "title": "Repeating Meeting With Team",
+    "startTime": "10:00",
+    "endTime": "10:30",
+    "category": "work",
+    "date": "2025-09-26",
+    "color": "bg-blue-500",
+    "completed": false,
+    "aiGenerated": true,
+    "repeating": true,
+    "repeatDays": [
+      "monday",
+      "tuesday",
+      "wednesday",
+      "thursday",
+      "friday"
+    ]
+  },
+  {
+    "id": "0e793416-f4ba-4087-86d6-03df79c239a4",
+    "title": "Lunch With Client",
+    "startTime": "12:00",
+    "endTime": "13:00",
+    "category": "work",
+    "date": "2025-09-22",
+    "color": "bg-blue-500",
+    "completed": false,
+    "aiGenerated": true,
+    "repeating": true,
+    "repeatDays": [
+      "monday",
+      "tuesday",
+      "wednesday",
+      "thursday",
+      "friday"
+    ]
+  },
+  {
+    "id": "0c426f09-d9b6-4050-a9f4-824a4db2aef4",
+    "title": "Lunch With Client",
+    "startTime": "12:00",
+    "endTime": "13:00",
+    "category": "work",
+    "date": "2025-09-23",
+    "color": "bg-blue-500",
+    "completed": false,
+    "aiGenerated": true,
+    "repeating": true,
+    "repeatDays": [
+      "monday",
+      "tuesday",
+      "wednesday",
+      "thursday",
+      "friday"
+    ]
+  },
+  {
+    "id": "2e0ee8cd-e8c1-4505-966d-cd9924fb1619",
+    "title": "Lunch With Client",
+    "startTime": "12:00",
+    "endTime": "13:00",
+    "category": "work",
+    "date": "2025-09-24",
+    "color": "bg-blue-500",
+    "completed": false,
+    "aiGenerated": true,
+    "repeating": true,
+    "repeatDays": [
+      "monday",
+      "tuesday",
+      "wednesday",
+      "thursday",
+      "friday"
+    ]
+  },
+  {
+    "id": "9bf28426-7563-4604-8d1d-2721bd06ebc2",
+    "title": "Lunch With Client",
+    "startTime": "12:00",
+    "endTime": "13:00",
+    "category": "work",
+    "date": "2025-09-25",
+    "color": "bg-blue-500",
+    "completed": false,
+    "aiGenerated": true,
+    "repeating": true,
+    "repeatDays": [
+      "monday",
+      "tuesday",
+      "wednesday",
+      "thursday",
+      "friday"
+    ]
+  },
+  {
+    "id": "48009965-6717-41e4-a179-9590530ae9c5",
+    "title": "Lunch With Client",
+    "startTime": "12:00",
+    "endTime": "13:00",
+    "category": "work",
+    "date": "2025-09-26",
+    "color": "bg-blue-500",
+    "completed": false,
+    "aiGenerated": true,
+    "repeating": true,
+    "repeatDays": [
+      "monday",
+      "tuesday",
+      "wednesday",
+      "thursday",
+      "friday"
+    ]
+  },
+  {
+    "id": "9b80bceb-77bf-473b-98c6-aeeaf0abb1eb",
+    "title": "Gym Session",
+    "startTime": "18:00",
+    "endTime": "19:00",
+    "category": "health",
+    "date": "2025-09-22",
+    "color": "bg-red-500",
+    "completed": false,
+    "aiGenerated": true,
+    "repeating": true,
+    "repeatDays": [
+      "monday",
+      "tuesday",
+      "wednesday",
+      "thursday",
+      "friday"
+    ]
+  },
+  {
+    "id": "53031772-fab1-487f-bb1a-190503fc058d",
+    "title": "Gym Session",
+    "startTime": "18:00",
+    "endTime": "19:00",
+    "category": "health",
+    "date": "2025-09-23",
+    "color": "bg-red-500",
+    "completed": false,
+    "aiGenerated": true,
+    "repeating": true,
+    "repeatDays": [
+      "monday",
+      "tuesday",
+      "wednesday",
+      "thursday",
+      "friday"
+    ]
+  },
+  {
+    "id": "3544a372-fc3c-425a-9ffe-39a652cbfae5",
+    "title": "Gym Session",
+    "startTime": "18:00",
+    "endTime": "19:00",
+    "category": "health",
+    "date": "2025-09-24",
+    "color": "bg-red-500",
+    "completed": false,
+    "aiGenerated": true,
+    "repeating": true,
+    "repeatDays": [
+      "monday",
+      "tuesday",
+      "wednesday",
+      "thursday",
+      "friday"
+    ]
+  },
+  {
+    "id": "88764ec5-2c25-4bb8-ac4f-757234636cb9",
+    "title": "Gym Session",
+    "startTime": "18:00",
+    "endTime": "19:00",
+    "category": "health",
+    "date": "2025-09-25",
+    "color": "bg-red-500",
+    "completed": false,
+    "aiGenerated": true,
+    "repeating": true,
+    "repeatDays": [
+      "monday",
+      "tuesday",
+      "wednesday",
+      "thursday",
+      "friday"
+    ]
+  },
+  {
+    "id": "23e016ac-8f9b-4820-b740-24d4a70e8cca",
+    "title": "Gym Session",
+    "startTime": "18:00",
+    "endTime": "19:00",
+    "category": "health",
+    "date": "2025-09-26",
+    "color": "bg-red-500",
+    "completed": false,
+    "aiGenerated": true,
+    "repeating": true,
+    "repeatDays": [
+      "monday",
+      "tuesday",
+      "wednesday",
+      "thursday",
+      "friday"
+    ]
+  },
+  {
+    "id": "5bbdf1bc-0bea-444f-a790-fb572a1f81d9",
+    "title": "Repeating (Meeting With Team",
+    "startTime": "10:00",
+    "endTime": "10:30",
+    "category": "work",
+    "date": "2025-09-22",
+    "color": "bg-blue-500",
+    "completed": false,
+    "aiGenerated": true,
+    "repeating": true,
+    "repeatDays": [
+      "monday",
+      "tuesday",
+      "wednesday",
+      "thursday",
+      "friday"
+    ]
+  },
+  {
+    "id": "f2b94ad2-5bdd-4191-9ca4-429c87fff3d9",
+    "title": "Repeating (Meeting With Team",
+    "startTime": "10:00",
+    "endTime": "10:30",
+    "category": "work",
+    "date": "2025-09-23",
+    "color": "bg-blue-500",
+    "completed": false,
+    "aiGenerated": true,
+    "repeating": true,
+    "repeatDays": [
+      "monday",
+      "tuesday",
+      "wednesday",
+      "thursday",
+      "friday"
+    ]
+  },
+  {
+    "id": "28d02c40-046b-4e09-ae58-efcdd0cf39b7",
+    "title": "Repeating (Meeting With Team",
+    "startTime": "10:00",
+    "endTime": "10:30",
+    "category": "work",
+    "date": "2025-09-24",
+    "color": "bg-blue-500",
+    "completed": false,
+    "aiGenerated": true,
+    "repeating": true,
+    "repeatDays": [
+      "monday",
+      "tuesday",
+      "wednesday",
+      "thursday",
+      "friday"
+    ]
+  },
+  {
+    "id": "dc2a17c4-6339-47fc-b17b-9fa3a2a09988",
+    "title": "Repeating (Meeting With Team",
+    "startTime": "10:00",
+    "endTime": "10:30",
+    "category": "work",
+    "date": "2025-09-25",
+    "color": "bg-blue-500",
+    "completed": false,
+    "aiGenerated": true,
+    "repeating": true,
+    "repeatDays": [
+      "monday",
+      "tuesday",
+      "wednesday",
+      "thursday",
+      "friday"
+    ]
+  },
+  {
+    "id": "1e712539-d37f-4375-8d7c-40eeb0a746fb",
+    "title": "Repeating (Meeting With Team",
+    "startTime": "10:00",
+    "endTime": "10:30",
+    "category": "work",
+    "date": "2025-09-26",
+    "color": "bg-blue-500",
+    "completed": false,
+    "aiGenerated": true,
+    "repeating": true,
+    "repeatDays": [
+      "monday",
+      "tuesday",
+      "wednesday",
+      "thursday",
+      "friday"
+    ]
+  },
+  {
+    "id": "e26af50f-89f5-4c44-b8e0-267c2cb1818c",
+    "title": "Lunch With Client",
+    "startTime": "12:00",
+    "endTime": "13:00",
+    "category": "work",
+    "date": "2025-09-22",
+    "color": "bg-blue-500",
+    "completed": false,
+    "aiGenerated": true,
+    "repeating": true,
+    "repeatDays": [
+      "monday",
+      "tuesday",
+      "wednesday",
+      "thursday",
+      "friday"
+    ]
+  },
+  {
+    "id": "524df5d9-9c18-4a75-b7d0-853b78706090",
+    "title": "Lunch With Client",
+    "startTime": "12:00",
+    "endTime": "13:00",
+    "category": "work",
+    "date": "2025-09-23",
+    "color": "bg-blue-500",
+    "completed": false,
+    "aiGenerated": true,
+    "repeating": true,
+    "repeatDays": [
+      "monday",
+      "tuesday",
+      "wednesday",
+      "thursday",
+      "friday"
+    ]
+  },
+  {
+    "id": "9ea37ae9-315d-4422-966a-36135e151153",
+    "title": "Lunch With Client",
+    "startTime": "12:00",
+    "endTime": "13:00",
+    "category": "work",
+    "date": "2025-09-24",
+    "color": "bg-blue-500",
+    "completed": false,
+    "aiGenerated": true,
+    "repeating": true,
+    "repeatDays": [
+      "monday",
+      "tuesday",
+      "wednesday",
+      "thursday",
+      "friday"
+    ]
+  },
+  {
+    "id": "2dbcc7e3-34c3-4c48-9665-46f951820e7f",
+    "title": "Lunch With Client",
+    "startTime": "12:00",
+    "endTime": "13:00",
+    "category": "work",
+    "date": "2025-09-25",
+    "color": "bg-blue-500",
+    "completed": false,
+    "aiGenerated": true,
+    "repeating": true,
+    "repeatDays": [
+      "monday",
+      "tuesday",
+      "wednesday",
+      "thursday",
+      "friday"
+    ]
+  },
+  {
+    "id": "58a21e3e-0723-4598-88e6-2456e45cc9c8",
+    "title": "Lunch With Client",
+    "startTime": "12:00",
+    "endTime": "13:00",
+    "category": "work",
+    "date": "2025-09-26",
+    "color": "bg-blue-500",
+    "completed": false,
+    "aiGenerated": true,
+    "repeating": true,
+    "repeatDays": [
+      "monday",
+      "tuesday",
+      "wednesday",
+      "thursday",
+      "friday"
+    ]
+  },
+  {
+    "id": "9779037c-3be2-443d-b832-053a691d21ff",
+    "title": "Gym Session",
+    "startTime": "18:00",
+    "endTime": "19:00",
+    "category": "health",
+    "date": "2025-09-22",
+    "color": "bg-red-500",
+    "completed": false,
+    "aiGenerated": true,
+    "repeating": true,
+    "repeatDays": [
+      "monday",
+      "tuesday",
+      "wednesday",
+      "thursday",
+      "friday"
+    ]
+  },
+  {
+    "id": "a4e08caf-7e55-4baa-8848-63a74304ca70",
+    "title": "Gym Session",
+    "startTime": "18:00",
+    "endTime": "19:00",
+    "category": "health",
+    "date": "2025-09-23",
+    "color": "bg-red-500",
+    "completed": false,
+    "aiGenerated": true,
+    "repeating": true,
+    "repeatDays": [
+      "monday",
+      "tuesday",
+      "wednesday",
+      "thursday",
+      "friday"
+    ]
+  },
+  {
+    "id": "1cf784b5-d466-4da8-ae41-797be7da719a",
+    "title": "Gym Session",
+    "startTime": "18:00",
+    "endTime": "19:00",
+    "category": "health",
+    "date": "2025-09-24",
+    "color": "bg-red-500",
+    "completed": false,
+    "aiGenerated": true,
+    "repeating": true,
+    "repeatDays": [
+      "monday",
+      "tuesday",
+      "wednesday",
+      "thursday",
+      "friday"
+    ]
+  },
+  {
+    "id": "685c5a84-3015-4c95-a448-63a26a25f684",
+    "title": "Gym Session",
+    "startTime": "18:00",
+    "endTime": "19:00",
+    "category": "health",
+    "date": "2025-09-25",
+    "color": "bg-red-500",
+    "completed": false,
+    "aiGenerated": true,
+    "repeating": true,
+    "repeatDays": [
+      "monday",
+      "tuesday",
+      "wednesday",
+      "thursday",
+      "friday"
+    ]
+  },
+  {
+    "id": "e064b3b2-3541-45ab-aa20-8ae980b656aa",
+    "title": "Gym Session",
+    "startTime": "18:00",
+    "endTime": "19:00",
+    "category": "health",
+    "date": "2025-09-26",
+    "color": "bg-red-500",
+    "completed": false,
+    "aiGenerated": true,
+    "repeating": true,
+    "repeatDays": [
+      "monday",
+      "tuesday",
+      "wednesday",
+      "thursday",
+      "friday"
+    ]
+  },
+  {
+    "id": "cefefbc4-906d-4cd5-ba5a-ed6d3aa8d0b4",
+    "title": "Meeting With Team",
+    "startTime": "10:00",
+    "endTime": "10:30",
+    "category": "work",
+    "date": "2025-09-22",
+    "color": "bg-blue-500",
+    "completed": false,
+    "aiGenerated": true
+  },
+  {
+    "id": "32749913-f433-422f-a766-b22caa89f1f3",
+    "title": "Lunch With Client",
+    "startTime": "12:00",
+    "endTime": "13:00",
+    "category": "work",
+    "date": "2025-09-22",
+    "color": "bg-blue-500",
+    "completed": false,
+    "aiGenerated": true
+  },
+  {
+    "id": "d39b36fc-889c-41a4-9861-f8ef94c7bb97",
+    "title": "Gym Session",
+    "startTime": "18:00",
+    "endTime": "19:00",
+    "category": "health",
+    "date": "2025-09-22",
+    "color": "bg-red-500",
+    "completed": false,
+    "aiGenerated": true
+  }
+]
