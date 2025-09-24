@@ -1,6 +1,7 @@
 
   {
       "name": "AI Agent App Frontend",
+      "homepage": "https://github.com/AnaySharmaCEO/PlayPad/",
       "version": "0.1.0",
       "private": true,
       "dependencies": {
@@ -54,6 +55,9 @@
       },
       "scripts": {
           "dev": "vite",
-          "build": "vite build"
+          "build": "vite build",
+          "predeploy": "npm run build",
+          "deploy": "gh-pages -d dist"
       }
+      
   }
